@@ -1,0 +1,6 @@
+from abb_deeplearning.abb_data_pipeline.abb_clouddrl_transformation_pipeline import naive_battery_throughput_calculation
+
+
+
+
+naive_battery_throughput_calculation()

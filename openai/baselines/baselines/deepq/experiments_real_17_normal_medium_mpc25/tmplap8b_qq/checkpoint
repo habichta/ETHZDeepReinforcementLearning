@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp/tmplap8b_qq/model"
+all_model_checkpoint_paths: "/tmp/tmplap8b_qq/model"

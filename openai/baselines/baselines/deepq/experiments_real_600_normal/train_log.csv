@@ -1,0 +1,2 @@
+episode,steps,reward100,reward50,reward10,mean_s_q,mean_t_q,mean_td_error,mean_h_error,action_count0,action_count1,action_count2,action_count3,action_count4,action_count5,action_count6,mean_wg,median_wg,max_wg,min_wg
+100,17918,-72.1,-71.1,-71.8,-2.30489622822,-5.89725,-0.752330870779,-0.748555816422,47,24,23,22,17,20,28,3.21848e-05,2.43759e-06,0.000380176,7.73861e-10
